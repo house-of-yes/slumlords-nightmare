@@ -1,4 +1,4 @@
-![Slumlord's Nightmare Sigil](docs/assets/sigil.png)
+![Slumlord's Nightmare Sigil](site/assets/sigil.png)
 
 # Slumlord’s Nightmare ($SCREAM)
 **Let Them.**
